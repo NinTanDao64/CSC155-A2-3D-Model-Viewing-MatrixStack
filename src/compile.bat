@@ -1,1 +1,1 @@
-javac a1/Starter.java
+javac a2/Starter.java
